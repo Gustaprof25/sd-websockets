@@ -1,0 +1,13 @@
+{
+  "soucePort": 8000,
+  "targets": [
+    {
+      "host": "localhost",
+      "port": 8001
+    },
+    {
+      "host": "localhost",
+      "port": 8002
+    }
+  ]
+}
